@@ -12,6 +12,8 @@ documentation for details.
 
 test modif clément
 
+encore un test 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
